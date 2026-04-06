@@ -7,6 +7,7 @@ import {
   Contact,
   Finder,
   Image,
+  Photos,
   Resume,
   Safari,
   Terminal,
@@ -27,7 +28,8 @@ const App = () => {
       <Text />
       <Image />
       <Contact />
-      
+      <Photos />
+
       <Home />
     </main>
   );
